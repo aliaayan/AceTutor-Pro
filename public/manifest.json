@@ -1,0 +1,15 @@
+{
+  "name": "AceTutor Pro",
+  "short_name": "AceTutor",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDF6E3",
+  "theme_color": "#1B2B34",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/ink/100/book.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    }
+  ]
+}
